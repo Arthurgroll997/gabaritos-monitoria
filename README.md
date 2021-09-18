@@ -1,5 +1,9 @@
 # Gabaritos de Java
 Gabaritos dos exercícios de Java propostos na disciplina de Programação II do curso de Desenvolvimento de Sisitemas do IFRS - Campus Canoas no ano de 2021
+# Lista de gabaritos
+- Lista 2 ✓
+- Lista 3 ✓
+- Lista 4 ✗
 ## Horários de atendimento
 | Dia da semana | Horário |
 | ------------- | ------- |
