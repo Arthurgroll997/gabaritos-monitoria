@@ -6,5 +6,5 @@ Gabaritos dos exercícios de Java propostos na disciplina de Programação II do
 | Terça-feira | 18:00 - 20:00 |
 | Quinta-feira | 19:00 - 21:00 |
 ## Dúvidas?
-Se você estiver com alguma dúvida, não hesite em me chamar no whats: +55 51 (9)9503-0893
-Ou, se preferir, pode também me chamar no discord: Wanderer#2456
+Se você estiver com alguma dúvida, não hesite em me chamar no whats: +55 51 (9)9503-0893\
+Caso não queira me contatar por whats, pode me chamar no discord: Wanderer#2456
