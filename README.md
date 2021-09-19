@@ -15,9 +15,11 @@ A grande maioria de erros relacionados ao netbeans se deve ao fato de:
 - Possuir o NetBeans desatualizado com uma versão do JDK atualizada
 - Possuir o JDK desatualizado com uma versão do NetBeans atualizada
 - Ter instalado o JDK e instalado o Apache NetBeans logo após, sem ter reinicializado o computador
+
 Para garantir que você tenha a versão do JDK e do Apache NetBeans compatíveis, sempre baixe a versão do JDK e do NetBeans mais atualizadas.\
 No momento, a versão do NetBeans mais atualizada é a 12.4 (https://netbeans.apache.org/download/nb124/nb124.html), e a do JDK é a 16 (https://www.oracle.com/java/technologies/downloads/#java16-windows).\
 Para o processo de instalação, siga os seguintes passos:
+
 - Instale o JDK mais atualizado
 - Reinicie o computador após a instalação do JDK
 - Instale a versão mais atualizada do Apache NetBeans
