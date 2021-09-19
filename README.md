@@ -20,7 +20,8 @@ No momento, a versão do NetBeans mais atualizada é a 12.4 (https://netbeans.ap
 Para o processo de instalação, siga os seguintes passos:
 - Instale o JDK mais atualizado
 - Reinicie o computador após a instalação do JDK
-- Instale a versão mais atualizada do Apache NetBeans\\
+- Instale a versão mais atualizada do Apache NetBeans
+
 Além disso, quando for criar um projeto, lembre-se de criar com o Maven (Java with Maven -> Java Application). Depois de escolher essa opção, você pode receberuma requisição para baixar um arquivo jar. Baixe-o e continue.\\
 Após baixar o jar (se foi necessário), você irá para uma tela que irá requisitar o nome do projeto e o local. Além disso, existirão outras opções abaixo, como Group Id, Version e Package. Você pode mudar o Group Id para algo como com.nomeesobrenome.listax (como eu, que normalmente coloco com.arthurgroll.listax). Na versão, você pode deixar a padrão (1.0-SNAPSHOT), ou pode simplesmente botar como 1.0 ou alguma versão de sua preferência, e o package você pode deixar como está. Após isso, clique em "Finish".\\
 O nome do seu projeto aparecerá no canto esquerdo. Nele, você pode clicar no "+" para expandir o seu conteúdo. Expandindo a primeira vez, aparecerão algumas opções. Expanda a opção "Source packages". Nela você encontrará o pacote mostrado antes. Clique com o botão direito nele e vá em "New" e "Java Class...".\\
