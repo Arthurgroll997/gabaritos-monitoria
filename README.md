@@ -3,7 +3,7 @@ Gabaritos dos exercícios de Java propostos na disciplina de Programação II do
 # Lista de gabaritos
 - Lista 2 ✓
 - Lista 3 ✓
-- Lista 4 ✗
+- Lista 4 ✓
 ## Horários de atendimento
 | Dia da semana | Horário |
 | ------------- | ------- |
