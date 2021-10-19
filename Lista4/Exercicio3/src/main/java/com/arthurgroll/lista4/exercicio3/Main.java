@@ -45,7 +45,11 @@ public class Main
     
     public static int calcularFatorialRecursao(int numero)
     {
-        // Aqui 
+        // Aqui calcularemos da seguinte forma: caso o número recebido seja
+        // zero, retornamos ele. Se não, chamaremos a função novamente com o número
+        // recebido - 1 multiplicado por ele mesmo, que depois de todas as chamadas
+        // até chegar no número 1 retornará o resultado correto para todas as chamadas
+        // anteriores dessa função e, por fim, retornará o fatorial que queremos.
         if (numero == 1) return numero;
         return numero * calcularFatorialRecursao(numero - 1);
     }
