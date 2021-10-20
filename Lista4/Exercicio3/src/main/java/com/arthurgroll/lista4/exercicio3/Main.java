@@ -20,7 +20,7 @@ public class Main
         
         // Aqui utilizamos o mesmo algoritmo acima, mas usando recursão ao invés
         // de utilizar laços de repetição
-        System.out.println("O fatorial de " + numero + " é: " + calcularFatorial(numero));
+        System.out.println("O fatorial de " + numero + " é: " + calcularFatorialRecursivo(numero));
     }
     
     public static int calcularFatorial(int numero)
