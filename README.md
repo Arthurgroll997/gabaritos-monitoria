@@ -9,6 +9,7 @@ Gabaritos dos exercícios de Java propostos na disciplina de Programação II do
 | ------------- | ------- |
 | Terça-feira | 18:00 - 20:00 |
 | Quinta-feira | 19:00 - 21:00 |
+
 <span style="color: rgb(128, 0, 0)">OBS: É necessário agendar o atendimento pelo Whats ou Discord no fim desta página ou clicando <a href="#contato">aqui</a></span>
 ## Erros relacionados à IDE Apache NetBeans e como criar o primeiro projeto
 A grande maioria de erros relacionados ao netbeans se deve ao fato de:
