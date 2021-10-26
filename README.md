@@ -41,6 +41,6 @@ public static void main(String[] args) {
 }
 ```
 É nesse método que o programa começará. Você pode criar os objetos necessários e realizar o que for necessário aí.
-## Dúvidas?
-<span id="contato">Se você estiver com alguma dúvida, não hesite em me chamar no whats: +55 51 (9)9503-0893\
+## Dúvidas e horário de atendimento
+<span id="contato">Se você estiver com alguma dúvida ou necessita marcar um atendimento, não hesite em me chamar no whats: +55 51 (9)9503-0893\
 Caso não queira me contatar por whats, pode me chamar no discord: Wanderer#2456</a>
