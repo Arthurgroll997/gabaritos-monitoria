@@ -9,6 +9,7 @@ Gabaritos dos exercícios de Java propostos na disciplina de Programação II do
 | ------------- | ------- |
 | Terça-feira | 18:00 - 20:00 |
 | Quinta-feira | 19:00 - 21:00 |
+<span style="color: rgb(128, 0, 0)">OBS: É necessário agendar o atendimento pelo Whats ou Discord no fim desta página ou clicando <a href="#contato">aqui</a></span>
 ## Erros relacionados à IDE Apache NetBeans e como criar o primeiro projeto
 A grande maioria de erros relacionados ao netbeans se deve ao fato de:
 - Não ter o JDK instalado
@@ -40,5 +41,5 @@ public static void main(String[] args) {
 ```
 É nesse método que o programa começará. Você pode criar os objetos necessários e realizar o que for necessário aí.
 ## Dúvidas?
-Se você estiver com alguma dúvida, não hesite em me chamar no whats: +55 51 (9)9503-0893\
-Caso não queira me contatar por whats, pode me chamar no discord: Wanderer#2456
+<span id="contato">Se você estiver com alguma dúvida, não hesite em me chamar no whats: +55 51 (9)9503-0893\
+Caso não queira me contatar por whats, pode me chamar no discord: Wanderer#2456</a>
