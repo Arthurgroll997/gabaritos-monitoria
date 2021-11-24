@@ -43,5 +43,9 @@ public static void main(String[] args) {
 ```
 É nesse método que o programa começará. Você pode criar os objetos necessários e realizar o que for necessário aí.
 ## Dúvidas e horário de atendimento
-<span id="contato">Se você estiver com alguma dúvida ou necessita marcar um atendimento, não hesite em me chamar no whats: +55 51 (9)9503-0893\
-Caso não queira me contatar por whats, pode me chamar no discord: Wanderer#2456</a>
+<span id="contato">Se você estiver com alguma dúvida ou necessita marcar um atendimento, não hesite em entrar em contato com nós monitores!\
+Aqui seguem os contatos dos monitores de Java:
+Email da Milena: milenaschmittscheidt@gmail.com\
+WhatsApp do Arthur: +55 51 (9)9503-0893\
+Discord do Arthur: Wanderer#2456\
+Email do Arthur: 02150123@aluno.canoas.ifrs.edu.br (ou apvgroll@gmail.com)</span>
