@@ -5,13 +5,14 @@ Gabaritos dos exercícios de Java propostos na disciplina de Programação II do
 - Lista 3 ✓
 - Lista 4 ✓
 - Calculadora com Java Swing ✓
+- Tarefa Prática de I/O ✓
 ## Horários de atendimento
 | Dia da semana | Horário |
 | ------------- | ------- |
 | Terça-feira | 18:00 - 20:00 |
 | Quinta-feira | 19:00 - 21:00 |
 
-<span style="color: rgb(128, 0, 0)">OBS: É necessário agendar o atendimento pelo Whats, Discord ou por e-mail presentes no <a href="#contato" style="text-decoration: none">fim desta página</a></span>
+<span style="color: rgb(128, 0, 0)">OBS: É necessário agendar o atendimento pelo Whats, Discord ou pelos e-mails presentes no <a href="#contato" style="text-decoration: none">fim desta página</a></span>
 ## Erros relacionados à IDE Apache NetBeans e como criar o primeiro projeto
 A grande maioria de erros relacionados ao netbeans se deve ao fato de:
 - Não ter o JDK instalado
